@@ -1,5 +1,5 @@
 
-# aws-bia
+# PROJETO AWS-BIA
 
 ## Projeto base para o evento Bootcamp Imersão AWS que irei participar.
 
