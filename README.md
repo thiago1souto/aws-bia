@@ -11,4 +11,6 @@
 docker compose exec server bash -c 'npx sequelize db:migrate'
 ```
 
+###  Update repository tag v1.0.0
+ 
 #### AULA 01: Configuração do Ambiente na nuvem na AWS  
