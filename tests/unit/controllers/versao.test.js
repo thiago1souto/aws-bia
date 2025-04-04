@@ -40,7 +40,7 @@ describe('Versao Controller', () => {
     const { get } = versaoController();
     // Chama o método get do objeto controller
     get(req, res);
-
+    // Teste no arquivo
     expect(res.send).toHaveBeenCalledWith('Bia 1.0.0');
   });
 });
