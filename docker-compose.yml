@@ -7,7 +7,8 @@ services:
     links:
       - database
     environment:
-      ### Apontamento para o banco de dados            
+      ### Apontamento para o banco de dados ####
+      #
       DB_USER: postgres
       DB_PWD: postgres
       DB_HOST: database
